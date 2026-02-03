@@ -16,7 +16,11 @@ Formatted output
 Program flow control
 
 
-
+    #include <stdio.h>
+    #include <time.h>
+    #include <stdbool.h>
+    #include <unistd.h>
+    
     int main(){
 
     time_t rawtime = 0; 
