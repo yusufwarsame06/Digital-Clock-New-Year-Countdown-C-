@@ -38,7 +38,7 @@ Program flow control
         printf("\r%02d:%02d:%02d", pTime->tm_hour, pTime->tm_min, pTime->tm_sec);
 
         if(pTime->tm_hour == 0){
-            printf("HAPPY NEW YEAR!!!")
+            printf("HAPPY NEW YEAR!!!");
         }
 
         sleep(1);
