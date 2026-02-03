@@ -1,7 +1,7 @@
 # Digital-Clock-New-Year-Countdown-C-
 This project is a terminal-based digital clock written in C that displays the current local time in real time. The program continuously updates the clock using system time functions and formats the output to resemble a digital clock display.
 
-A special feature of this project is a built-in New Year trigger: when the system time reaches 12:00 AM on January 1st, the program automatically prints a celebratory “HAPPY NEW YEAR” message to the terminal.
+A special feature of this project is a built-in New Year trigger. When the system time reaches 12:00 AM on January 1st, the program automatically prints a celebratory “HAPPY NEW YEAR” message to the terminal.
 
 Key Features:
 Real-time clock display using system time
