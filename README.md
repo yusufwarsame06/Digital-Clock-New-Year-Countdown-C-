@@ -17,8 +17,6 @@ Program flow control
 
 
 
-Code:
-
     int main(){
 
     time_t rawtime = 0; 
