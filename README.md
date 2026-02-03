@@ -18,9 +18,8 @@ Program flow control
 
 
 Code:
-// DIGITAL CLOCK
 
-int main(){
+    int main(){
 
     time_t rawtime = 0; 
     struct tm *pTime = NULL;
